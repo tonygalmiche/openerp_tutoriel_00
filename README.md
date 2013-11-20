@@ -18,6 +18,7 @@ A suivre (en vrac) :
 * Création d'un formulaire complexe (onglet, tableau,..)
 * Valeur par défaut des nouveaux documents (contexte par défaut)
 * Création d'une vue liste (tree)
+* Obtenir plusieurs tris par défaut pour un même objet
 * Mise en couleur conditionnelle dans les listes
 * Création d'une vue de recherche
 * Création d'une vue kanban
@@ -30,7 +31,10 @@ A suivre (en vrac) :
 * Relation many2many
 * Ajout de contraintes avec `_sql_constraints`
 * Copie de documents - surcharge de la méthode `copy`
-* Création d'actions (de boutons)
+* Ajout de boutons dans la barre du haut
+* Ajout de boutons en haut à droite du formulaire
+* Ajout de boutons dans les listes
+* Ajout de menus dans le bouton 'Autres'
 * Wizard
 * Création de documents par programmation
 * Personnalisation d'une vue avec xpath
