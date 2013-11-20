@@ -11,8 +11,26 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 
 
 
-A suivre : 
+A suivre (en vrac) : 
 * Création d'un nouvel objet (modèle)
-* Relations many2many
+* Création d'une vue formulaire (form)
+* Création d'une vue liste (tree)
+* Création d'une vue kanban
+* Création d'une vue agenda
+* Relation many2one
+* Relation many2many
+* Ajout de contraintes avec `_sql_constraints`
+* Copie de documents - surcharge de la méthode `copy`
 * Création d'actions (de boutons)
+* Wizard
+* Création de documents par programmation
 * Personnalisation d'une vue avec xpath
+* Utilisation des filtres (domain)
+* Champ calculé (fonction)
+* Champ calculé avec des dates
+* Création de rapports avec OpenOffice
+* Création de rapports avec Webkit
+* Gestion des droits
+* Traduction
+* Workflow
+* Webservice
