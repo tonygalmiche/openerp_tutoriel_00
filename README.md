@@ -14,6 +14,7 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 A suivre (en vrac) : 
 * Création d'un nouvel objet (modèle)
 * Création d'une vue formulaire (form)
+* Valeur par défaut des nouveaux documents (contexte par défaut)
 * Création d'une vue liste (tree)
 * Mise en couleur conditionnelle dans les listes
 * Création d'une vue de recherche
@@ -33,6 +34,7 @@ A suivre (en vrac) :
 * Utilisation des filtres (domain)
 * Champ calculé (fonction)
 * Champ calculé avec des dates
+* Champ calculé dynamique avec `on_change`
 * Création de rapports avec OpenOffice
 * Création de rapports avec Webkit
 * Gestion des droits
