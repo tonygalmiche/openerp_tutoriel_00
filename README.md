@@ -13,7 +13,9 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 
 A suivre (en vrac) : 
 * Création d'un nouvel objet (modèle)
+* Création d'un nouvel objet avec les différents types de champs possible
 * Création d'une vue formulaire (form)
+* Création d'un formulaire complexe (onglet, tableau,..)
 * Valeur par défaut des nouveaux documents (contexte par défaut)
 * Création d'une vue liste (tree)
 * Mise en couleur conditionnelle dans les listes
