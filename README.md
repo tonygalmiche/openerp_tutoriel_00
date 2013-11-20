@@ -21,6 +21,7 @@ A suivre (en vrac) :
 * Mise en couleur conditionnelle dans les listes
 * Création d'une vue de recherche
 * Création d'une vue kanban
+* Création d'une vue gantt
 * Création d'une vue agenda
 * Création d'une vue graph
 * widget `progressbar`
