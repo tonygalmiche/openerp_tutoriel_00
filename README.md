@@ -36,6 +36,7 @@ A suivre (en vrac) :
 * Ajout de boutons dans les listes
 * Ajout de menus dans le bouton 'Autres'
 * Wizard
+* Actions planifiées
 * Création de documents par programmation
 * Personnalisation d'une vue avec xpath
 * Utilisation des filtres (domain)
