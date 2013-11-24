@@ -1,20 +1,17 @@
 InfoSaône / OpenERP Tutoriel - Sommaire
 ===================
 
-* [01 - Module minimaliste            ](https://github.com/tonygalmiche/openerp_tutoriel_01)
-* [02 - Module avec image             ](https://github.com/tonygalmiche/openerp_tutoriel_02)
-* [03 - Gestion des dépendances       ](https://github.com/tonygalmiche/openerp_tutoriel_03)
-* [04 - Gestion des menus             ](https://github.com/tonygalmiche/openerp_tutoriel_04)
-* [05 - Modification d'une vue liste  ](https://github.com/tonygalmiche/openerp_tutoriel_05)
-* [06 - Ajout d'un champ sur un objet ](https://github.com/tonygalmiche/openerp_tutoriel_06)
-* [07 - Création d'un objet (modèle)  ](https://github.com/tonygalmiche/openerp_tutoriel_07)
-
-
+* [01 - Module minimaliste                    ](https://github.com/tonygalmiche/openerp_tutoriel_01)
+* [02 - Module avec image                     ](https://github.com/tonygalmiche/openerp_tutoriel_02)
+* [03 - Gestion des dépendances               ](https://github.com/tonygalmiche/openerp_tutoriel_03)
+* [04 - Gestion des menus                     ](https://github.com/tonygalmiche/openerp_tutoriel_04)
+* [05 - Modification d'une vue liste          ](https://github.com/tonygalmiche/openerp_tutoriel_05)
+* [06 - Ajout d'un champ sur un objet         ](https://github.com/tonygalmiche/openerp_tutoriel_06)
+* [07 - Création d'un objet (modèle)          ](https://github.com/tonygalmiche/openerp_tutoriel_07)
+* [08 - Différents types de champs des objets ](https://github.com/tonygalmiche/openerp_tutoriel_08)
 
 
 A suivre (en vrac) : 
-* Création d'un nouvel objet avec les différents types de champs possible
-* Création d'une vue formulaire (form)
 * Création d'un formulaire complexe (onglet, tableau,..)
 * Valeur par défaut des nouveaux documents (contexte par défaut)
 * Création d'une vue liste (tree)
