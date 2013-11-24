@@ -7,6 +7,7 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 * [04 - Gestion des menus             ](https://github.com/tonygalmiche/openerp_tutoriel_04)
 * [05 - Modification d'une vue liste  ](https://github.com/tonygalmiche/openerp_tutoriel_05)
 * [06 - Ajout d'un champ sur un objet ](https://github.com/tonygalmiche/openerp_tutoriel_06)
+* [07 - Création d'un objet (modèle)  ](https://github.com/tonygalmiche/openerp_tutoriel_07)
 
 
 
