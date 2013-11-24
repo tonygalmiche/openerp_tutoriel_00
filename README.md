@@ -13,7 +13,6 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 
 
 A suivre (en vrac) : 
-* Création d'un nouvel objet (modèle)
 * Création d'un nouvel objet avec les différents types de champs possible
 * Création d'une vue formulaire (form)
 * Création d'un formulaire complexe (onglet, tableau,..)
