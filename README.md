@@ -9,10 +9,11 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 * [06 - Ajout d'un champ sur un objet         ](https://github.com/tonygalmiche/openerp_tutoriel_06)
 * [07 - Création d'un objet (modèle)          ](https://github.com/tonygalmiche/openerp_tutoriel_07)
 * [08 - Différents types de champs des objets ](https://github.com/tonygalmiche/openerp_tutoriel_08)
+* [09 - Mise en page des formulaires          ](https://github.com/tonygalmiche/openerp_tutoriel_09)
+
 
 
 A suivre (en vrac) : 
-* Création d'un formulaire complexe (onglet, tableau,..)
 * Valeur par défaut des nouveaux documents (contexte par défaut)
 * Création d'une vue liste (tree)
 * Obtenir plusieurs tris par défaut pour un même objet
