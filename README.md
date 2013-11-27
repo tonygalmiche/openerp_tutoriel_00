@@ -23,6 +23,7 @@ A suivre (en vrac) :
 * Création d'une vue agenda
 * Création d'une vue graph
 * widget `progressbar`
+* Modèle de mails
 * Affichage conditionnel de champs dans les vues
 * Relation many2one
 * Relation many2many
