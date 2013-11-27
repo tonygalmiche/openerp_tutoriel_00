@@ -15,9 +15,8 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 
 A suivre (en vrac) : 
 * Valeur par défaut des nouveaux documents (contexte par défaut)
-* Création d'une vue liste (tree)
+* Création de listes (mise en couleur conditionnelle, regroupement, totaux, ajout de colonnes par l'utilisateur)
 * Obtenir plusieurs tris par défaut pour un même objet
-* Mise en couleur conditionnelle dans les listes
 * Création d'une vue de recherche
 * Création d'une vue kanban
 * Création d'une vue gantt
