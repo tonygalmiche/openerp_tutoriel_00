@@ -15,17 +15,17 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 
 
 A suivre (en vrac) : 
-* Valeur par défaut des nouveaux documents (contexte par défaut)
-* Création de listes (mise en couleur conditionnelle, regroupement, totaux, ajout de colonnes par l'utilisateur)
+* Valeur par défaut des nouveaux documents (ex : convertir une opportunité en projet)
+* Création de listes - suite (regroupement, totaux, ajout de colonnes par l'utilisateur)
 * Obtenir plusieurs tris par défaut pour un même objet
-* Création d'une vue de recherche
+* Création d'une vue de recherche (vu rapidement dans le tutoriel 10)
 * Création d'une vue kanban
 * Création d'une vue gantt
 * Création d'une vue agenda
 * Création d'une vue graph
 * widget `progressbar`
 * Modèle de mails
-* Affichage conditionnel de champs dans les vues
+* Affichage conditionnel de champs dans les vues (vue rapidement dans plusieurs tutoriels)
 * Relation many2one
 * Relation many2many
 * Ajout de contraintes avec `_sql_constraints`
@@ -38,11 +38,11 @@ A suivre (en vrac) :
 * Actions planifiées
 * Création de documents par programmation
 * Personnalisation d'une vue avec xpath
-* Utilisation des filtres (domain)
+* Utilisation des filtres / domain (Vu rapidement dans le tutoriel 10)
 * Champ calculé (fonction)
 * Champ calculé avec des dates
 * Champ calculé dynamique avec `on_change`
-* Création de rapports avec OpenOffice
+* Création de rapports avec OpenOffice (Webkit est recommandé)
 * Création de rapports avec Webkit
 * Gestion des droits
 * Création d'un tableau de bord
