@@ -11,13 +11,13 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 * [08 - Différents types de champs des objets ](https://github.com/tonygalmiche/openerp_tutoriel_08)
 * [09 - Mise en page des formulaires          ](https://github.com/tonygalmiche/openerp_tutoriel_09)
 * [10 - Personnalisation des listes           ](https://github.com/tonygalmiche/openerp_tutoriel_10)
+* [11 - Tri des listes                        ](https://github.com/tonygalmiche/openerp_tutoriel_11)
 
 
 
 A suivre (en vrac) : 
 * Valeur par défaut des nouveaux documents (ex : convertir une opportunité en projet)
 * Création de listes - suite (regroupement, totaux, ajout de colonnes par l'utilisateur)
-* Obtenir plusieurs tris par défaut pour un même objet
 * Création d'une vue de recherche (vu rapidement dans le tutoriel 10)
 * Création d'une vue kanban
 * Création d'une vue gantt
@@ -49,3 +49,4 @@ A suivre (en vrac) :
 * Traduction
 * Workflow
 * Webservice
+* Création de vues dans Postgresql (Reporting From PostgreSQL Views)
