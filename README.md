@@ -12,6 +12,9 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 * [09 - Mise en page des formulaires          ](https://github.com/tonygalmiche/openerp_tutoriel_09)
 * [10 - Personnalisation des listes           ](https://github.com/tonygalmiche/openerp_tutoriel_10)
 * [11 - Tri des listes                        ](https://github.com/tonygalmiche/openerp_tutoriel_11)
+* [12 - Création d'une vue dans Postgres      ](https://github.com/tonygalmiche/openerp_tutoriel_12)
+
+
 
 
 
@@ -49,4 +52,3 @@ A suivre (en vrac) :
 * Traduction
 * Workflow
 * Webservice
-* Création de vues dans Postgresql (Reporting From PostgreSQL Views)
