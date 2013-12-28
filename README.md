@@ -10,6 +10,7 @@ InfoSaône / OpenERP Tutoriel - Sommaire
 * [07 - Création d'un objet (modèle)          ](https://github.com/tonygalmiche/openerp_tutoriel_07)
 * [08 - Différents types de champs des objets ](https://github.com/tonygalmiche/openerp_tutoriel_08)
 * [09 - Mise en page des formulaires          ](https://github.com/tonygalmiche/openerp_tutoriel_09)
+* [10 - Personnalisation des listes           ](https://github.com/tonygalmiche/openerp_tutoriel_10)
 
 
 
